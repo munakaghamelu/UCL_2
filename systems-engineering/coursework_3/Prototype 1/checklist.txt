@@ -1,0 +1,26 @@
+Systems Checklist:
+
+[16th December - 17th January]
+
+- Source Code
+	- Unity UI
+	- Worst case: use blender to produce model with one kinect, load into unit
+	- Best case: Merge multiple kinects to produce a 3D model with RoomAlive/other method
+
+- Report Website [Fill out document in google docs]
+	- Home
+	- Requirements
+	- Research
+	- Algorithms
+	- HCI
+	- Prototype
+	- Achievement
+	- Plan for Term 2
+	- Appendices
+
+- Individual Report
+	
+- Elevator Pitch Slides + Video
+	- One person present? Need to make slides and practice
+	- https://www.youtube.com/watch?v=GqsWKaR9Q6M
+	- 4 Slides
